@@ -1,7 +1,10 @@
 title: Work Experience
 positions:
+  - role: Manager · Deloitte Digital
+    meta: Milan, Italy · Jun 2026 – Present
+    bullets: []
   - role: Senior Consultant · Deloitte Digital
-    meta: Milan, Italy · Jul 2018 – Present
+    meta: Milan, Italy · Jun 2021 – Jun 2026
     bullets:
       - >-
         Leading teams building enterprise websites, single‑page apps and mobile
@@ -9,6 +12,12 @@ positions:
       - >-
         Defining technical solutions, reviewing code and supporting architecture
         decisions.
+  - role: Consultant · Deloitte Digital
+    meta: Milan, Italy · Jun 2019 – Jun 2021
+    bullets: []
+  - role: Analyst · Deloitte Digital
+    meta: Milan, Italy · Jun 2018 – Jun 2019
+    bullets: []
   - role: Software Developer · ThinkOpen SRL
     meta: Milan, Italy · Oct 2017 – Jul 2018
     bullets:
